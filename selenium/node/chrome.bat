@@ -1,0 +1,1 @@
+java -Dwebdriver.chrome.driver=chromedriver.exe -jar ..\selenium-server-standalone-3.141.59.jar -host 192.168.100.101 -role node  -hub http://192.168.100.101:4444/grid/register
